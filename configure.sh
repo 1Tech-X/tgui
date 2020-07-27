@@ -26,7 +26,7 @@ xfce_conf () {
 	echo "# Launch Tab Window manager " >> .vnc/xstartup
 	echo "# Required package 'xorg-twm'" >> .vnc/xstartup
 	echo "twm &" >> .vnc/xstartup
-	echo "xfce4-session &" >> .vnc/xstartup
+	echo "startxfce4 &" >> .vnc/xstartup
 	echo ""
 	echo "${green}[*]${blue}Done${reset}\n"
 	echo ""
