@@ -223,7 +223,6 @@ tigervnc
 xfce
 aterm
 xorg_twm
-xfce_conf
 netsurf
 text_editor
 wireshark
